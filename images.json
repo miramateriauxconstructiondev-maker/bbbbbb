@@ -2,256 +2,256 @@
     "easy": [],
     "hard": [],
     "number": [
-        {
+          {
             "bgImageName": "Bluey_Color_1",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue1.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue1.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_2",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue2.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue2.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_3",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue3.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue3.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_4",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue4.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue4.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_5",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue5.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue5.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_6",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue6.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue6.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_7",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue7.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue7.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_8",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue8.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue8.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_9",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue9.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue9.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_10",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue10.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue10.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_11",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue11.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue11.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_12",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue12.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue12.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_13",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue13.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue13.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_14",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue14.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue14.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_15",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue15.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue15.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_16",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue16.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue16.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_17",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue17.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue17.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_18",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue18.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue18.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_19",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue19.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue19.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_20",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue20.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue20.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_21",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue21.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue21.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_22",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue22.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue22.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_23",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue23.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue23.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_24",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue24.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue24.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_25",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue25.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue25.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_26",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue26.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue26.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_27",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue27.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue27.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_28",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue28.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue28.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_29",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue29.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue29.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_30",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue30.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue30.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_31",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue31.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue31.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_32",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue32.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue32.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_33",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue33.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue33.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_34",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue34.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue34.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_35",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue35.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue35.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_36",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue36.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue36.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_37",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue37.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue37.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_38",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue38.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue38.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_39",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue39.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue39.png",
-            "category": "BLUEY"
-        },
-        {
-            "bgImageName": "Bluey_Color_40",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue40.jpeg",
             "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue40.png",
             "category": "BLUEY"
         },
         {
             "bgImageName": "Bluey_Color_41",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue41.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue41.png",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue42.png",
             "category": "BLUEY"
         },
         {
-            "bgImageName": "Bluey_Color_42",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue42.jpeg",
-            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue42.png",
+            "bgImageName": "Bluey_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue44.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue46.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue48.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue50.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue52.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue54.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue56.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue58.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue60.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue62.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue64.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue66.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue68.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue70.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue72.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue74.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue76.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue78.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue80.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue82.png",
+            "category": "BLUEY"
+        },
+        {
+            "bgImageName": "Bluey_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/theworldofstickers/colorbynumberspom2/refs/heads/main/blue84.png",
             "category": "BLUEY"
         },
         {
